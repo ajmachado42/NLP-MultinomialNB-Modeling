@@ -46,11 +46,11 @@ No one wants to be put into a system for saying something that got taken the wro
 
 ## Now, what?
 
-People tend to be more honest when they're anonymous [(source)](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1107428). What better place to find some honest thoughts to experiment on, than a public message board from the world wide web. 
+People tend to be more honest when they're anonymous [(source)](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1107428). What better place to find some honest thoughts to experiment on than a public message board from the world wide web. 
 
 [r/ShowerThoughts](https://www.reddit.com/r/Showerthoughts/) is a subreddit where people post their shower thoughts. "At their best, showerthoughts are universally relatable and find the amusing/interesting within the mundane."
 
-[r/IntrusiveThoughts](https://www.reddit.com/r/intrusivethoughts/) is "A subreddit for you to share all those intrusive, obsessive and recurring thoughts or ideas that race through your head throughout the day. Intrusive thoughts are random or recurring thoughts you have that make you want to do crazy things, such as "hit him with your car or jump off the building."
+[r/IntrusiveThoughts](https://www.reddit.com/r/intrusivethoughts/) is "A subreddit for you to share all those intrusive, obsessive and recurring thoughts or ideas that race through your head throughout the day. Intrusive thoughts are random or recurring thoughts you have that make you want to do crazy things, such as 'hit him with your car or jump off the building.'"
 
 By comparing language in casual thoughts to neurotic thoughts, my model was able to distinguish the language in between the two subreddits with a 98.2% training accuracy and 96.5% test accuracy. 
 
@@ -124,8 +124,8 @@ I threw in a VoteClassifier with a DecisionTree (which takes a while to run) but
 
 If this were to be used as a premise for further research and development in the field of telehealth and the use of AI in mental health services. I'd say using control groups but maintaining the anonymity of reporting could prove to be insightful. 
 
-Predicting if a thought is intrusive versus a shower thougth is nice and all but comparing the two when they come from the same mind could be more insightful and how this varies across a diverse cross-section of the population.
+Predicting if a thought is intrusive versus a shower thought is nice and all but comparing the two when they come from the same mind could be more insightful and how this varies across a diverse cross-section of the population. 
 
 It's also important to keep iterating on these models and make sure new data is still running with high accuracy. 
 
-How this type of information is used begs more questions that have been asked about the field of psychology since diagnosis became a thing. The concern of calling 911 on a suicidal person and putting them permanently into a system for a temporary psychological lapse, is a growing concern. Many municipalities are seeing how this permanent trauma to a temporary problem can be avoided by developing crisis departments and increasing training to distinguish mental health crises from violent crimes.
+How this type of information is used begs more questions that have been asked about the field of psychology since diagnosis became a thing. The concern of calling 911 on a suicidal person and putting them permanently into a system for a temporary psychological lapse, is a growing concern. Many municipalities are seeing how this permanent trauma to a temporary problem can be avoided by developing crisis response departments and increasing training to distinguish mental health crises from violent crimes. The US Government recently deployed a hotline, similar to 9-1-1, for mental health crisis and just to chat with a counselor, the number is 9-8-8 [(source)](https://www.forbes.com/sites/darreonnadavis/2022/07/13/national-suicide-hotline-launches-this-weekend-those-in-need-can-dial-988/?sh=28c019ac2b51).
