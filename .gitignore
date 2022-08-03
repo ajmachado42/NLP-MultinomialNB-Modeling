@@ -1,9 +1,14 @@
-# Big Data Folders
 
+# large files
+data/
+data/AODdata_cleaned/
+data/NO2data_cleaned/
+data/tempdata_cleaned/
+data/precipdata_cleaned/
 
 # OSX 
 .DS_Store
-Icon
+Icon?
 
 
 # Byte-compiled / optimized / DLL files
